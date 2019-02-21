@@ -1,0 +1,29 @@
+[{
+	"tit":"推荐",
+	"con":["img/2.gif","img/3.gif"]
+	
+},{
+	"tit":"手机",
+	"con":["img/3.gif","img/3.gif"]
+	
+},{
+	"tit":"智能",
+	"con":["img/2.gif","img/2.gif"]
+	
+},{
+	"tit":"电视",
+	"con":["img/2.gif","img/3.gif"]
+	
+},{
+	"tit":"电脑",
+	"con":["img/2.gif","img/2.gif"]
+	
+},{
+	"tit":"全面屏",
+	"con":["img/3.gif","img/3.gif"]
+	
+},{
+	"tit":"生活",
+	"con":["img/2.gif","img/3.gif"]
+	
+}]
